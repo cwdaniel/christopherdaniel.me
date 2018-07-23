@@ -1,0 +1,100 @@
+{
+  "personalInformation": {
+    "fullName": "Christopher Daniel",
+    "email": "cwdaniel@fuse.net",
+    "links": [
+      {
+        "url": "github.com/cwdaniel",
+        "title": "github"
+      }
+    ]
+  },
+  "workExperience": [
+    {
+      "title": "Full Stack Developer at Divisions Maintenance Group",
+      "duration": "Jan 2018 – Present",
+      "items": [
+        {
+          "description": "Led initiative to upgrade from React 15 to React 16"
+        },
+        {
+          "description": "Revamped system's use of googles API to load google maps quicker. From 2 seconds to 100 milliseconds."
+        },
+        {
+          "description": "Lowered internal search tool load times for products from up to 12 seconds to under 75 milliseconds."
+        },
+        {
+          "description": "Worked closely with co-workers to help bolster their knowledge of react."
+        },
+        {
+          "description": "Built remote procedure calls for kafka topics to create a near-real time frontend application."
+        },
+        {
+          "description": "Responsible for major UI improvements that were praised by customers and internal teams."
+        }
+      ]
+    },
+    {
+      "title": "Full Stack Developer at Unlimited Systems",
+      "duration": "Aug 2016 - Nov 2017",
+      "items": [
+        {
+          "description": "Developed an AngularJS app used by large medical practices to find financial support for cancer patients "
+        },
+        {
+          "description": "Designed solutions using a C# API on the backend, an AngularJS frontend with a Redux style data flow, OAuth for authorization, all backed by infrastructure configured in an Azure Cloud environment "
+        },
+        {
+          "description": "Helped design and architect key features in UX and engineering design sprints "
+        },
+        {
+          "description": "Worked as part of a team within the process of creating stories, reviewing code, QA, and deployment "
+        },
+        {
+          "description": "Focused on cleaning up codebase to follow maintainable coding standards "
+        },
+        {
+          "description": "Pair programmed with team members to accomplish complex tasks "
+        }
+      ]
+    },
+    {
+      "title": "Web Developer and Infrastructure Manager at Dell",
+      "duration": "June 2013 - Aug 2016",
+      "items": [
+        {
+          "description": "Developed and maintained an application with RBAC provided by Active Directory for tracking and registering data center assets to provide analytic insights using ASP.NET MVC, Entity Framework, and PHP "
+        },
+        {
+          "description": "Designed and managed 28,000 sq ft of datacenter space, split between two datacenters "
+        },
+        {
+          "description": "Assisted customers on-site by troubleshooting network, configuration, and hardware issues "
+        },
+        {
+          "description": "Worked with stakeholders to translate business needs into action items to ensure satisfaction "
+        },
+        {
+          "description": "Created new procedures to streamline common datacenter activities "
+        }
+      ]
+    }
+  ],
+  "works": [
+    {
+      "site": "AioMiner.com",
+      "quickDescription": "CyrptoCurrency SaaS",
+      "description": "Currently responsible for the entirety of the system, building out frontend, backend and middleware. The tool is a crypto mining tool that has a remote website control system. Leverages React, React Native, C#, SignalR, SQL, node, and express."
+    },
+    {
+      "site": "SandstoneStoneFilms.net",
+      "quickDescription": "Photography Website",
+      "description": "The website allowed users to create personal/locked galleries with payments accepted via Authorize.net and PayPal."
+    },
+    {
+      "site": "localhost",
+      "quickDescription": "FitnesApp Preview unavailable (Ionic + firebase => ReactNative + express + mongo)",
+      "description": "Designed and developed an app to track work outs for Android and iOS users, leveraging image recognition to parse machine details."
+    }
+  ]
+}

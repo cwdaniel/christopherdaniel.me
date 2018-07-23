@@ -1,5 +1,4 @@
 import React from "react";
-import DayNight from "../dayandnight";
 import "./well.css";
 class Well extends React.Component {
   render() {
