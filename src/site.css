@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+}
+.App {
+  overflow: hidden;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #d8dbe2;
+}
+.content {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  overflow: scroll;
+}
